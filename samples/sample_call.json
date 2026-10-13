@@ -1,0 +1,72 @@
+[
+  {
+    "start": 0.0,
+    "end": 4.5,
+    "speaker": "Agent",
+    "text": "Namaste, thank you for calling Revive Customer Care. My name is Rahul. How may I assist you today?",
+    "confidence": 0.96
+  },
+  {
+    "start": 5.0,
+    "end": 10.2,
+    "speaker": "Customer",
+    "text": "Hi Rahul, I ordered an electric scooter battery 5 days ago. Tracking hasn't updated since Tuesday!",
+    "confidence": 0.94
+  },
+  {
+    "start": 10.8,
+    "end": 15.5,
+    "speaker": "Agent",
+    "text": "I truly understand your concern sir and apologize for the delay. May I confirm your registered mobile number and order ID for verification?",
+    "confidence": 0.95
+  },
+  {
+    "start": 16.0,
+    "end": 20.0,
+    "speaker": "Customer",
+    "text": "Yes, mobile number is 9876543210 and Order ID is RV-8821.",
+    "confidence": 0.95
+  },
+  {
+    "start": 20.5,
+    "end": 26.0,
+    "speaker": "Agent",
+    "text": "Thank you for the details. Please allow me 1 minute while I check the transit status with our logistics dispatch team.",
+    "confidence": 0.93
+  },
+  {
+    "start": 27.0,
+    "end": 33.5,
+    "speaker": "Agent",
+    "text": "Thank you for holding. The package has cleared Pune logistics center and is on priority express delivery scheduled for tomorrow by 3 PM.",
+    "confidence": 0.92
+  },
+  {
+    "start": 34.0,
+    "end": 38.5,
+    "speaker": "Customer",
+    "text": "Okay, that is a big relief. Can you send me the tracking SMS?",
+    "confidence": 0.94
+  },
+  {
+    "start": 39.0,
+    "end": 45.0,
+    "speaker": "Agent",
+    "text": "Certainly sir, I have triggered an SMS notification to your number. Is there anything else I may help you with today? Note this call was recorded for quality assurance.",
+    "confidence": 0.96
+  },
+  {
+    "start": 45.5,
+    "end": 48.0,
+    "speaker": "Customer",
+    "text": "No, that's all. Thank you Rahul.",
+    "confidence": 0.93
+  },
+  {
+    "start": 48.5,
+    "end": 51.5,
+    "speaker": "Agent",
+    "text": "Thank you for choosing Revive. Have a wonderful day ahead!",
+    "confidence": 0.97
+  }
+]
